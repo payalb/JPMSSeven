@@ -1,0 +1,4 @@
+Cyclic dependency
+If moduleA depends on moduleB and moduleB depends on moduleA, such type of dependency is
+called cyclic dependency.
+Cyclic Dependencies between the modules are not allowed in java 9.
